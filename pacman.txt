@@ -1,0 +1,5 @@
+=====================================================================
+sudo pacman -S firefox vim mc cmake git xfce4-terminal smplayer gedit feh dmenu transmission-gtk udiskie pamixer numlockx ssh-tools
+=====================================================================
+sudo pacman -S ttf-liberation ttf-dejavu opendesktop-fonts ttf-bitstream-vera ttf-arphic-ukai ttf-arphic-uming ttf-hanazono
+=====================================================================
